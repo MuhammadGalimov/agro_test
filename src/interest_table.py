@@ -1,4 +1,4 @@
-from interest import InterestIterator
+from src.interest import InterestIterator
 from datetime import date, timedelta
 from calendar import monthrange
 from decimal import Decimal

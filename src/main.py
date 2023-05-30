@@ -3,8 +3,8 @@ from datetime import date
 from typing import Iterator
 from pandas import DataFrame
 
-from interest import Ruble, InterestIterator
-import interest_table
+from src.interest import Ruble, InterestIterator
+import src.interest_table as interest_table
 
 
 def main():
